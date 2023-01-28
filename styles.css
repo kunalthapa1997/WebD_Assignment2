@@ -107,7 +107,7 @@ li {
 }
 
 .text-purple {
-   color: #6030b1; 
+   color: #5c3900; 
   /* color: #5c3900; */
 }
 
@@ -151,7 +151,7 @@ nav {
 }
 
 .nav-link-anchor-primary {
-  background-color: #6030b1;
+  background-color: #5c3900;
   padding: 8px 20px;
   border-radius: 50px;
   color: white;
@@ -159,12 +159,12 @@ nav {
 }
 
 .nav-link-anchor-primary:hover {
-  background-color: #5d3eff;
+  background-color: #7d5c25;
 }
 
 .my-logo {
   font-size: 24px;
-  color: #6030b1;
+  color: #5c3900;
   margin: 0 12px;
   font-weight: bold
 }
@@ -351,7 +351,7 @@ nav {
 
 .pill{
   padding: 1rem 2rem;
-  background-color: grey;
+  background-color: #5c3900;
   width: fit-content;
   border-radius: 2rem;
   color: white;
