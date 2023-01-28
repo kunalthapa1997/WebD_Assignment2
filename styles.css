@@ -661,36 +661,6 @@ nav {
   color: #fff;
 }
 
-/* Image Gallery */
-
-/* .carousel {
-  width: 100%;
-  height: 400px;
-  overflow: hidden;
-}
-
-.carousel-inner {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 200%;
-  height: 100%;
-  animation: slide 20s infinite;
-}
-
-.carousel-item {
-  width: 33.33%;
-}
-
-@keyframes slide {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-33.33%);
-  }
-} */
-
 @keyframes display {
   0% {
     transform: translateX(200px);
@@ -970,6 +940,7 @@ footer {
 
   .left-container img, .right-container img{
     left: 10px;
+    float: none;
   }
 
   .left-container-arrow, .right-container-arrow{
